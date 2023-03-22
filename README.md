@@ -1,4 +1,4 @@
-##  🎃Welcome! My name is Ryan.🎃
+##  Welcome! My name is Ryan.
 <div align="center">
   <a color="#fff" href="https://github.com/RyanOliveiraCarvalho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanOliveiraCarvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
