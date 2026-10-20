@@ -11,7 +11,6 @@
   <img align="center" alt="Ryan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ryan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ryan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ryan-pic" height="150" style="border-radius:50px;" src="https://imageproxy.ifunny.co/crop:x-20,resize:640x,quality:90x75/images/16d1fc037cdb1698314fe660b84930fe7cfaf8b06d7c5012073b7e6bd0ceaee0_1.jpg?width=676&height=676">
 </div>
   
   ##
